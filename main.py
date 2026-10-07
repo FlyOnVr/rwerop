@@ -166,7 +166,7 @@ class Client(discord.Client):
         embed = discord.Embed(
             title="Buy Lunar Paid",
             description=(
-                "## *Payment Methods* \n ### 1000 robux \n ### CashApp(not supported yet)\n### PayPal(not supported yet)\n### Card\n### Server Boost\n-# (menu is not out btw)\n-# this is where you would buy Lunar"
+                "## *Payment Methods* \n ### 1000 robux \n ### CashApp(not supported yet)\n### PayPal(not supported yet)\n### Card\n### Server Boost"
             ),
             color=discord.Color.pink()
         )
