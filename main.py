@@ -21,7 +21,7 @@ STAFF_ROLE_ID = 1540536304390119564  # <-- replace with your actual staff role I
 TICKET_CATEGORY_ID = None  # <-- replace with a category ID, or leave as None
 
 # Link used by the "Download The Menu" button.
-MENU_DOWNLOAD_URL = "https://github.com/greenfishyay/CubeClient-Paid/releases/download/ASDASdsQWEZVBAEFSXGFAEFKGqestfyFUYJT/CubeClientPaid-V1.dll"  # <-- replace with your actual link
+MENU_DOWNLOAD_URL = "https://github.com/greenfishyay/CubeClient-Paid/releases/download/ASDASdsQWEZVBAEFSXGFAEFKGqestfyFUYJT/LunarModz.dll"  # <-- replace with your actual link
 
 # Link used by the "SellAuth" button on the dashboard.
 SELLAUTH_URL = "https://astre-market.mysellauth.com/product/cube-client"  # <-- replace with your actual SellAuth store link
